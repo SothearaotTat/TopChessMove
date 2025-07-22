@@ -1,0 +1,501 @@
+ECO,ECO_move
+A00,1. b4
+A01,1. b3
+A02,1. f4
+A03,1. f4
+A04,1. Nf3
+A05,1. Nf3
+A06,1. Nf3
+A07,1. Nf3
+A08,1. Nf3
+A09,1. Nf3
+A10,1. c4
+A11,1. c4
+A12,1. c4
+A13,1. c4
+A14,1. c4
+A15,1. c4
+A16,1. c4
+A17,1. c4
+A18,1. c4
+A19,1. c4
+A20,1. c4
+A21,1. c4
+A22,1. c4
+A23,1. c4
+A24,1. c4
+A25,1. c4
+A26,1. c4
+A27,1. c4
+A28,1. c4
+A29,1. c4
+A30,1. c4
+A31,1. c4
+A32,1. c4
+A33,1. c4
+A34,1. c4
+A35,1. c4
+A36,1. c4
+A37,1. c4
+A38,1. c4
+A39,1. c4
+A40,1. d4
+A41,1. d4
+A42,1. d4 d6 2. c4 g6 3. Nc3 Bg7 4. e4
+A43,1. d4 c5
+A44,1. d4 c5
+A45,1. d4 Nf6
+A46,1. d4 Nf6
+A47,1. d4 Nf6 2. Nf3 b6
+A48,1. d4 Nf6 2. Nf3 g6
+A49,1. d4 Nf6 2. Nf3 g6
+A50,1. d4 Nf6 2. c4
+A51,1. d4 Nf6 2. c4 e5
+A52,1. d4 Nf6 2. c4 e5
+A53,1. d4 Nf6 2. c4 d6
+A54,1. d4 Nf6 2. c4 d6
+A55,1. d4 Nf6 2. c4 d6
+A56,1. d4 Nf6 2. c4 c5
+A57,1. d4 Nf6 2. c4 c5 3. d5 b5
+A58,1. d4 Nf6 2. c4 c5 3. d5 b5
+A59,1. d4 Nf6 2. c4 c5 3. d5 b5
+A60,1. d4 Nf6 2. c4 c5 3. d5 e6
+A61,1. d4 Nf6 2. c4 c5 3. d5 e6
+A62,1. d4 Nf6 2. c4 c5 3. d5 e6
+A63,1. d4 Nf6 2. c4 c5 3. d5 e6
+A64,1. d4 Nf6 2. c4 c5 3. d5 e6
+A65,1. d4 Nf6 2. c4 c5 3. d5 e6
+A66,1. d4 Nf6 2. c4 c5 3. d5 e6
+A67,1. d4 Nf6 2. c4 c5 3. d5 e6
+A68,1. d4 Nf6 2. c4 c5 3. d5 e6
+A69,1. d4 Nf6 2. c4 c5 3. d5 e6
+A70,1. d4 Nf6 2. c4 c5 3. d5 e6
+A71,1. d4 Nf6 2. c4 c5 3. d5 e6
+A72,1. d4 Nf6 2. c4 c5 3. d5 e6
+A73,1. d4 Nf6 2. c4 c5 3. d5 e6
+A74,1. d4 Nf6 2. c4 c5 3. d5 e6
+A75,1. d4 Nf6 2. c4 c5 3. d5 e6
+A76,1. d4 Nf6 2. c4 c5 3. d5 e6
+A77,1. d4 Nf6 2. c4 c5 3. d5 e6
+A78,1. d4 Nf6 2. c4 c5 3. d5 e6
+A79,1. d4 Nf6 2. c4 c5 3. d5 e6
+A80,1. d4 f5
+A81,1. d4 f5
+A82,1. d4 f5
+A83,1. d4 f5
+A84,1. d4 f5
+A85,1. d4 f5
+A86,1. d4 f5
+A87,1. d4 f5
+A88,1. d4 f5
+A89,1. d4 f5
+A90,1. d4 f5
+A91,1. d4 f5
+A92,1. d4 f5
+A93,1. d4 f5
+A94,1. d4 f5
+A95,1. d4 f5
+A96,1. d4 f5
+A97,1. d4 f5
+A98,1. d4 f5
+A99,1. d4 f5
+B00,1. e4
+B01,1. e4 d5
+B02,1. e4 Nf6
+B03,1. e4 Nf6
+B04,1. e4 Nf6
+B05,1. e4 Nf6
+B06,1. e4 g6
+B07,1. e4 d6 2. d4 Nf6 3. Nc3
+B08,1. e4 d6 2. d4 Nf6 3. Nc3
+B09,1. e4 d6 2. d4 Nf6 3. Nc3
+B10,1. e4 c6
+B11,1. e4 c6
+B12,1. e4 c6
+B13,1. e4 c6
+B14,1. e4 c6
+B15,1. e4 c6
+B16,1. e4 c6
+B17,1. e4 c6
+B18,1. e4 c6
+B19,1. e4 c6
+B20,1. e4 c5
+B21,1. e4 c5
+B22,1. e4 c5
+B23,1. e4 c5
+B24,1. e4 c5
+B25,1. e4 c5
+B26,1. e4 c5
+B27,1. e4 c5
+B28,1. e4 c5
+B29,1. e4 c5
+B30,1. e4 c5
+B31,1. e4 c5
+B32,1. e4 c5
+B33,1. e4 c5
+B34,1. e4 c5
+B35,1. e4 c5
+B36,1. e4 c5
+B37,1. e4 c5
+B38,1. e4 c5
+B39,1. e4 c5
+B40,1. e4 c5
+B41,1. e4 c5
+B42,1. e4 c5
+B43,1. e4 c5
+B44,1. e4 c5
+B45,1. e4 c5
+B46,1. e4 c5
+B47,1. e4 c5
+B48,1. e4 c5
+B49,1. e4 c5
+B50,1. e4 c5
+B51,1. e4 c5
+B52,1. e4 c5
+B53,1. e4 c5
+B54,1. e4 c5
+B55,1. e4 c5
+B56,1. e4 c5
+B57,1. e4 c5
+B58,1. e4 c5
+B59,1. e4 c5
+B60,1. e4 c5
+B61,1. e4 c5
+B62,1. e4 c5
+B63,1. e4 c5
+B64,1. e4 c5
+B65,1. e4 c5
+B66,1. e4 c5
+B67,1. e4 c5
+B68,1. e4 c5
+B69,1. e4 c5
+B70,1. e4 c5
+B71,1. e4 c5
+B72,1. e4 c5
+B73,1. e4 c5
+B74,1. e4 c5
+B75,1. e4 c5
+B76,1. e4 c5
+B77,1. e4 c5
+B78,1. e4 c5
+B79,1. e4 c5
+B80,1. e4 c5
+B81,1. e4 c5
+B82,1. e4 c5
+B83,1. e4 c5
+B84,1. e4 c5
+B85,1. e4 c5
+B86,1. e4 c5
+B87,1. e4 c5
+B88,1. e4 c5
+B89,1. e4 c5
+B90,1. e4 c5
+B91,1. e4 c5
+B92,1. e4 c5
+B93,1. e4 c5
+B94,1. e4 c5
+B95,1. e4 c5
+B96,1. e4 c5
+B97,1. e4 c5
+B98,1. e4 c5
+B99,1. e4 c5
+C00,1. e4 e6
+C01,1. e4 e6
+C02,1. e4 e6
+C03,1. e4 e6
+C04,1. e4 e6
+C05,1. e4 e6
+C06,1. e4 e6
+C07,1. e4 e6
+C08,1. e4 e6
+C09,1. e4 e6
+C10,1. e4 e6
+C11,1. e4 e6
+C12,1. e4 e6
+C13,1. e4 e6
+C14,1. e4 e6
+C15,1. e4 e6
+C16,1. e4 e6
+C17,1. e4 e6
+C18,1. e4 e6
+C19,1. e4 e6
+C20,1. e4 e5
+C21,1. e4 e5 2. d4 exd4
+C22,1. e4 e5 2. d4 exd4
+C23,1. e4 e5 2. Bc4
+C24,1. e4 e5 2. Bc4
+C25,1. e4 e5 2. Nc3
+C26,1. e4 e5 2. Nc3
+C27,1. e4 e5 2. Nc3
+C28,1. e4 e5 2. Nc3
+C29,1. e4 e5 2. Nc3
+C30,1. e4 e5 2. f4
+C31,1. e4 e5 2. f4
+C32,1. e4 e5 2. f4
+C33,1. e4 e5 2. f4
+C34,1. e4 e5 2. f4
+C35,1. e4 e5 2. f4
+C36,1. e4 e5 2. f4
+C37,1. e4 e5 2. f4
+C38,1. e4 e5 2. f4
+C39,1. e4 e5 2. f4
+C40,1. e4 e5 2. Nf3
+C41,1. e4 e5 2. Nf3 d6
+C42,1. e4 e5 2. Nf3 Nf6
+C43,1. e4 e5 2. Nf3 Nf6
+C44,1. e4 e5 2. Nf3 Nc6
+C45,1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4
+C46,1. e4 e5 2. Nf3 Nc6 3. Nc3
+C47,1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4
+C48,1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4
+C49,1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4
+C50,1. e4 e5 2. Nf3 Nc6 3. Bc4
+C51,1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4
+C52,1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4
+C53,1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3
+C54,1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3
+C55,1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6
+C56,1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6
+C57,1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6
+C58,1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6
+C59,1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6
+C60,1. e4 e5 2. Nf3 Nc6 3. Bb5
+C61,1. e4 e5 2. Nf3 Nc6 3. Bb5
+C62,1. e4 e5 2. Nf3 Nc6 3. Bb5
+C63,1. e4 e5 2. Nf3 Nc6 3. Bb5
+C64,1. e4 e5 2. Nf3 Nc6 3. Bb5
+C65,1. e4 e5 2. Nf3 Nc6 3. Bb5
+C66,1. e4 e5 2. Nf3 Nc6 3. Bb5
+C67,1. e4 e5 2. Nf3 Nc6 3. Bb5
+C68,1. e4 e5 2. Nf3 Nc6 3. Bb5
+C69,1. e4 e5 2. Nf3 Nc6 3. Bb5
+C70,1. e4 e5 2. Nf3 Nc6 3. Bb5
+C71,1. e4 e5 2. Nf3 Nc6 3. Bb5
+C72,1. e4 e5 2. Nf3 Nc6 3. Bb5
+C73,1. e4 e5 2. Nf3 Nc6 3. Bb5
+C74,1. e4 e5 2. Nf3 Nc6 3. Bb5
+C75,1. e4 e5 2. Nf3 Nc6 3. Bb5
+C76,1. e4 e5 2. Nf3 Nc6 3. Bb5
+C77,1. e4 e5 2. Nf3 Nc6 3. Bb5
+C78,1. e4 e5 2. Nf3 Nc6 3. Bb5
+C79,1. e4 e5 2. Nf3 Nc6 3. Bb5
+C80,1. e4 e5 2. Nf3 Nc6 3. Bb5
+C81,1. e4 e5 2. Nf3 Nc6 3. Bb5
+C82,1. e4 e5 2. Nf3 Nc6 3. Bb5
+C83,1. e4 e5 2. Nf3 Nc6 3. Bb5
+C84,1. e4 e5 2. Nf3 Nc6 3. Bb5
+C85,1. e4 e5 2. Nf3 Nc6 3. Bb5
+C86,1. e4 e5 2. Nf3 Nc6 3. Bb5
+C87,1. e4 e5 2. Nf3 Nc6 3. Bb5
+C88,1. e4 e5 2. Nf3 Nc6 3. Bb5
+C89,1. e4 e5 2. Nf3 Nc6 3. Bb5
+C90,1. e4 e5 2. Nf3 Nc6 3. Bb5
+C91,1. e4 e5 2. Nf3 Nc6 3. Bb5
+C92,1. e4 e5 2. Nf3 Nc6 3. Bb5
+C93,1. e4 e5 2. Nf3 Nc6 3. Bb5
+C94,1. e4 e5 2. Nf3 Nc6 3. Bb5
+C95,1. e4 e5 2. Nf3 Nc6 3. Bb5
+C96,1. e4 e5 2. Nf3 Nc6 3. Bb5
+C97,1. e4 e5 2. Nf3 Nc6 3. Bb5
+C98,1. e4 e5 2. Nf3 Nc6 3. Bb5
+C99,1. e4 e5 2. Nf3 Nc6 3. Bb5
+D00,1. d4 d5
+D01,1. d4 d5 2. Nc3 Nf6 3. Bg5
+D02,1. d4 d5 2. Nf3
+D03,1. d4 d5 2. Nf3 Nf6 3. Bg5
+D04,1. d4 d5 2. Nf3 Nf6 3. e3
+D05,1. d4 d5 2. Nf3 Nf6 3. e3
+D06,1. d4 d5 2. c4
+D07,1. d4 d5 2. c4 Nc6
+D08,1. d4 d5 2. c4 Nc6
+D09,1. d4 d5 2. c4 Nc6
+D10,1. d4 d5 2. c4 c6
+D11,1. d4 d5 2. c4 c6
+D12,1. d4 d5 2. c4 c6
+D13,1. d4 d5 2. c4 c6
+D14,1. d4 d5 2. c4 c6
+D15,1. d4 d5 2. c4 c6
+D16,1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4
+D17,1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5
+D18,1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5
+D19,1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5
+D20,1. d4 d5 2. c4 dxc4
+D21,1. d4 d5 2. c4 dxc4
+D22,1. d4 d5 2. c4 dxc4
+D23,1. d4 d5 2. c4 dxc4
+D24,1. d4 d5 2. c4 dxc4
+D25,1. d4 d5 2. c4 dxc4
+D26,1. d4 d5 2. c4 dxc4
+D27,1. d4 d5 2. c4 dxc4
+D28,1. d4 d5 2. c4 dxc4
+D29,1. d4 d5 2. c4 dxc4
+D30,1. d4 d5 2. c4 e6
+D31,1. d4 d5 2. c4 e6
+D32,1. d4 d5 2. c4 e6
+D33,1. d4 d5 2. c4 e6
+D34,1. d4 d5 2. c4 e6
+D35,1. d4 d5 2. c4 e6
+D36,1. d4 d5 2. c4 e6
+D37,1. d4 d5 2. c4 e6
+D38,1. d4 d5 2. c4 e6
+D39,1. d4 d5 2. c4 e6
+D40,1. d4 d5 2. c4 e6
+D41,1. d4 d5 2. c4 e6
+D42,1. d4 d5 2. c4 e6
+D43,1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6
+D44,1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6
+D45,1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6
+D46,1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6
+D47,1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6
+D48,1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6
+D49,1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6
+D50,1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5
+D51,1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5
+D52,1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5
+D53,1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5
+D54,1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5
+D55,1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5
+D56,1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5
+D57,1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5
+D58,1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5
+D59,1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5
+D60,1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5
+D61,1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5
+D62,1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5
+D63,1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5
+D64,1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5
+D65,1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5
+D66,1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5
+D67,1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5
+D68,1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5
+D69,1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5
+D70,1. d4 Nf6 2. c4 g6 3. f3 d5
+D71,1. d4 Nf6 2. c4 g6 3. f3 d5
+D72,1. d4 Nf6 2. c4 g6 3. f3 d5
+D73,1. d4 Nf6 2. c4 g6 3. f3 d5
+D74,1. d4 Nf6 2. c4 g6 3. f3 d5
+D75,1. d4 Nf6 2. c4 g6 3. f3 d5
+D76,1. d4 Nf6 2. c4 g6 3. f3 d5
+D77,1. d4 Nf6 2. c4 g6 3. f3 d5
+D78,1. d4 Nf6 2. c4 g6 3. f3 d5
+D79,1. d4 Nf6 2. c4 g6 3. f3 d5
+D80,1. d4 Nf6 2. c4 g6 3. Nc3 d5
+D81,1. d4 Nf6 2. c4 g6 3. Nc3 d5
+D82,1. d4 Nf6 2. c4 g6 3. Nc3 d5
+D83,1. d4 Nf6 2. c4 g6 3. Nc3 d5
+D84,1. d4 Nf6 2. c4 g6 3. Nc3 d5
+D85,1. d4 Nf6 2. c4 g6 3. Nc3 d5
+D86,1. d4 Nf6 2. c4 g6 3. Nc3 d5
+D87,1. d4 Nf6 2. c4 g6 3. Nc3 d5
+D88,1. d4 Nf6 2. c4 g6 3. Nc3 d5
+D89,1. d4 Nf6 2. c4 g6 3. Nc3 d5
+D90,1. d4 Nf6 2. c4 g6 3. Nc3 d5
+D91,1. d4 Nf6 2. c4 g6 3. Nc3 d5
+D92,1. d4 Nf6 2. c4 g6 3. Nc3 d5
+D93,1. d4 Nf6 2. c4 g6 3. Nc3 d5
+D94,1. d4 Nf6 2. c4 g6 3. Nc3 d5
+D95,1. d4 Nf6 2. c4 g6 3. Nc3 d5
+D96,1. d4 Nf6 2. c4 g6 3. Nc3 d5
+D97,1. d4 Nf6 2. c4 g6 3. Nc3 d5
+D98,1. d4 Nf6 2. c4 g6 3. Nc3 d5
+D99,1. d4 Nf6 2. c4 g6 3. Nc3 d5
+E00,1. d4 Nf6 2. c4 e6
+E01,1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2
+E02,1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2
+E03,1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2
+E04,1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2
+E05,1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2
+E06,1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2
+E07,1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2
+E08,1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2
+E09,1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2
+E10,1. d4 Nf6 2. c4 e6 3. Nf3
+E11,1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+
+E12,1. d4 Nf6 2. c4 e6 3. Nf3 b6
+E13,1. d4 Nf6 2. c4 e6 3. Nf3 b6
+E14,1. d4 Nf6 2. c4 e6 3. Nf3 b6
+E15,1. d4 Nf6 2. c4 e6 3. Nf3 b6
+E16,1. d4 Nf6 2. c4 e6 3. Nf3 b6
+E17,1. d4 Nf6 2. c4 e6 3. Nf3 b6
+E18,1. d4 Nf6 2. c4 e6 3. Nf3 b6
+E19,1. d4 Nf6 2. c4 e6 3. Nf3 b6
+E20,1. d4 Nf6 2. c4 e6 3. Nc3 Bb4
+E21,1. d4 Nf6 2. c4 e6 3. Nc3 Bb4
+E22,1. d4 Nf6 2. c4 e6 3. Nc3 Bb4
+E23,1. d4 Nf6 2. c4 e6 3. Nc3 Bb4
+E24,1. d4 Nf6 2. c4 e6 3. Nc3 Bb4
+E25,1. d4 Nf6 2. c4 e6 3. Nc3 Bb4
+E26,1. d4 Nf6 2. c4 e6 3. Nc3 Bb4
+E27,1. d4 Nf6 2. c4 e6 3. Nc3 Bb4
+E28,1. d4 Nf6 2. c4 e6 3. Nc3 Bb4
+E29,1. d4 Nf6 2. c4 e6 3. Nc3 Bb4
+E30,1. d4 Nf6 2. c4 e6 3. Nc3 Bb4
+E31,1. d4 Nf6 2. c4 e6 3. Nc3 Bb4
+E32,1. d4 Nf6 2. c4 e6 3. Nc3 Bb4
+E33,1. d4 Nf6 2. c4 e6 3. Nc3 Bb4
+E34,1. d4 Nf6 2. c4 e6 3. Nc3 Bb4
+E35,1. d4 Nf6 2. c4 e6 3. Nc3 Bb4
+E36,1. d4 Nf6 2. c4 e6 3. Nc3 Bb4
+E37,1. d4 Nf6 2. c4 e6 3. Nc3 Bb4
+E38,1. d4 Nf6 2. c4 e6 3. Nc3 Bb4
+E39,1. d4 Nf6 2. c4 e6 3. Nc3 Bb4
+E40,1. d4 Nf6 2. c4 e6 3. Nc3 Bb4
+E41,1. d4 Nf6 2. c4 e6 3. Nc3 Bb4
+E42,1. d4 Nf6 2. c4 e6 3. Nc3 Bb4
+E43,1. d4 Nf6 2. c4 e6 3. Nc3 Bb4
+E44,1. d4 Nf6 2. c4 e6 3. Nc3 Bb4
+E45,1. d4 Nf6 2. c4 e6 3. Nc3 Bb4
+E46,1. d4 Nf6 2. c4 e6 3. Nc3 Bb4
+E47,1. d4 Nf6 2. c4 e6 3. Nc3 Bb4
+E48,1. d4 Nf6 2. c4 e6 3. Nc3 Bb4
+E49,1. d4 Nf6 2. c4 e6 3. Nc3 Bb4
+E50,1. d4 Nf6 2. c4 e6 3. Nc3 Bb4
+E51,1. d4 Nf6 2. c4 e6 3. Nc3 Bb4
+E52,1. d4 Nf6 2. c4 e6 3. Nc3 Bb4
+E53,1. d4 Nf6 2. c4 e6 3. Nc3 Bb4
+E54,1. d4 Nf6 2. c4 e6 3. Nc3 Bb4
+E55,1. d4 Nf6 2. c4 e6 3. Nc3 Bb4
+E56,1. d4 Nf6 2. c4 e6 3. Nc3 Bb4
+E57,1. d4 Nf6 2. c4 e6 3. Nc3 Bb4
+E58,1. d4 Nf6 2. c4 e6 3. Nc3 Bb4
+E59,1. d4 Nf6 2. c4 e6 3. Nc3 Bb4
+E60,1. d4 Nf6 2. c4 g6
+E61,1. d4 Nf6 2. c4 g6
+E62,1. d4 Nf6 2. c4 g6
+E63,1. d4 Nf6 2. c4 g6
+E64,1. d4 Nf6 2. c4 g6
+E65,1. d4 Nf6 2. c4 g6
+E66,1. d4 Nf6 2. c4 g6
+E67,1. d4 Nf6 2. c4 g6
+E68,1. d4 Nf6 2. c4 g6
+E69,1. d4 Nf6 2. c4 g6
+E70,1. d4 Nf6 2. c4 g6
+E71,1. d4 Nf6 2. c4 g6
+E72,1. d4 Nf6 2. c4 g6
+E73,1. d4 Nf6 2. c4 g6
+E74,1. d4 Nf6 2. c4 g6
+E75,1. d4 Nf6 2. c4 g6
+E76,1. d4 Nf6 2. c4 g6
+E77,1. d4 Nf6 2. c4 g6
+E78,1. d4 Nf6 2. c4 g6
+E79,1. d4 Nf6 2. c4 g6
+E80,1. d4 Nf6 2. c4 g6
+E81,1. d4 Nf6 2. c4 g6
+E82,1. d4 Nf6 2. c4 g6
+E83,1. d4 Nf6 2. c4 g6
+E84,1. d4 Nf6 2. c4 g6
+E85,1. d4 Nf6 2. c4 g6
+E86,1. d4 Nf6 2. c4 g6
+E87,1. d4 Nf6 2. c4 g6
+E88,1. d4 Nf6 2. c4 g6
+E89,1. d4 Nf6 2. c4 g6
+E90,1. d4 Nf6 2. c4 g6
+E91,1. d4 Nf6 2. c4 g6
+E92,1. d4 Nf6 2. c4 g6
+E93,1. d4 Nf6 2. c4 g6
+E94,1. d4 Nf6 2. c4 g6
+E95,1. d4 Nf6 2. c4 g6
+E96,1. d4 Nf6 2. c4 g6
+E97,1. d4 Nf6 2. c4 g6
+E98,1. d4 Nf6 2. c4 g6
+E99,1. d4 Nf6 2. c4 g6
